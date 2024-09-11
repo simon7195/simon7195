@@ -6,7 +6,7 @@ I'm a **graphic designer** with good grounding in programming languages.
 
 After some years of self-employed experience in graphic design, I'm now looking to move into development and join a team to work on web/app projects. Curious and autonomous, I'm open to opportunities and eager to discover a new professional horizon.
 
- To help me progress, I like to play coding/hacking games. 👾
+To help me progress, I like to play coding/hacking games. 👾
 
 In my free time I produce and perform electronic music on stage! 
 
@@ -45,6 +45,6 @@ In my free time I produce and perform electronic music on stage!
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🎮 My Codewars profile
+### 🎮 Codewars profile
 
-[![My codewars profile](https://www.codewars.com/users/simon7195/badges/large)](https://www.codewars.com/users/simon7195)
+[![My codewars profile](https://www.codewars.com/users/simon7195/badges/micro)](https://www.codewars.com/users/simon7195)
