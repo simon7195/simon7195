@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Java and SQL
+<img src="https://www.codewars.com/users/simon7195/badges/large" alt="codewar-badge">
+
 <!--
 **simon7195/simon7195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
